@@ -43,10 +43,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 9034798852980734251}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6d628f800fe663e45a3c8f797c4e5eb7, type: 3}
+  m_Script: {fileID: 11500000, guid: 5c23e3909c172f6439042766cdc128d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _upgrade: {fileID: 5211543460095262652, guid: f97d0bb9c4d396242969908912daf9a7, type: 3}
+  _upgrade: {fileID: 5211543460095262652, guid: 98259873029569a42879fd7d95aea41a, type: 3}
 --- !u!136 &9034798852980734250
 CapsuleCollider:
   m_ObjectHideFlags: 0
